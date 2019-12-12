@@ -3,4 +3,4 @@
 Visual demonstration :  
 ![Result](https://github.com/AvgustPol/rotationExample/blob/master/rotation.gif)
 
-P.s. reload page if animation ended 
+P.s. reload page to see the animation again
